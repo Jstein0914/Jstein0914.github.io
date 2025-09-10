@@ -1,0 +1,51 @@
+/* Background */
+body {
+  background-color: #fffcce;
+  font-family: sans-serif;
+  font-size: 16px;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+/* Headings */
+h1 {
+  color: #000000;
+  font-size: 3em;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+h2 {
+  color: #654321;
+  font-size: 2em;
+  margin-bottom: 0.5em;
+}
+
+/* Paragraph */
+p {
+  color: #e60000;
+  font-size: 1em;
+  margin-bottom: 1em;
+} 
+
+/* List */
+ul {
+  padding-left: 3em;
+  margin-bottom: 2em;
+}
+
+li {
+  color: #090085;
+  font-size: 1em;
+  margin-bottom: .5em
+} 
+
+/* Box */
+.box {
+  width: 400px;
+  height: 250px;
+  background-color: #2f0ad4;
+  border: 12px solid #000000;
+  padding: 10px;
+  margin: 50px;
+ }
